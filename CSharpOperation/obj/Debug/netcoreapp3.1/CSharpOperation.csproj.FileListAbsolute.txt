@@ -1,0 +1,13 @@
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpOperation\bin\Debug\netcoreapp3.1\CSharpOperation.exe
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpOperation\bin\Debug\netcoreapp3.1\CSharpOperation.deps.json
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpOperation\bin\Debug\netcoreapp3.1\CSharpOperation.runtimeconfig.json
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpOperation\bin\Debug\netcoreapp3.1\CSharpOperation.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpOperation\bin\Debug\netcoreapp3.1\CSharpOperation.dll
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpOperation\bin\Debug\netcoreapp3.1\CSharpOperation.pdb
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpOperation\obj\Debug\netcoreapp3.1\CSharpOperation.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpOperation\obj\Debug\netcoreapp3.1\CSharpOperation.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpOperation\obj\Debug\netcoreapp3.1\CSharpOperation.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpOperation\obj\Debug\netcoreapp3.1\CSharpOperation.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpOperation\obj\Debug\netcoreapp3.1\CSharpOperation.dll
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpOperation\obj\Debug\netcoreapp3.1\CSharpOperation.pdb
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpOperation\obj\Debug\netcoreapp3.1\CSharpOperation.genruntimeconfig.cache
