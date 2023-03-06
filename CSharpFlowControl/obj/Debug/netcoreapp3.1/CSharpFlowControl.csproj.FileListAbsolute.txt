@@ -1,0 +1,13 @@
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpFlowControl\bin\Debug\netcoreapp3.1\CSharpFlowControl.exe
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpFlowControl\bin\Debug\netcoreapp3.1\CSharpFlowControl.deps.json
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpFlowControl\bin\Debug\netcoreapp3.1\CSharpFlowControl.runtimeconfig.json
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpFlowControl\bin\Debug\netcoreapp3.1\CSharpFlowControl.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpFlowControl\bin\Debug\netcoreapp3.1\CSharpFlowControl.dll
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpFlowControl\bin\Debug\netcoreapp3.1\CSharpFlowControl.pdb
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpFlowControl\obj\Debug\netcoreapp3.1\CSharpFlowControl.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpFlowControl\obj\Debug\netcoreapp3.1\CSharpFlowControl.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpFlowControl\obj\Debug\netcoreapp3.1\CSharpFlowControl.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpFlowControl\obj\Debug\netcoreapp3.1\CSharpFlowControl.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpFlowControl\obj\Debug\netcoreapp3.1\CSharpFlowControl.dll
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpFlowControl\obj\Debug\netcoreapp3.1\CSharpFlowControl.pdb
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpFlowControl\obj\Debug\netcoreapp3.1\CSharpFlowControl.genruntimeconfig.cache

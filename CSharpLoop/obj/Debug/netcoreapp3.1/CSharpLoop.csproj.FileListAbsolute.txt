@@ -1,0 +1,13 @@
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpLoop\bin\Debug\netcoreapp3.1\CSharpLoop.exe
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpLoop\bin\Debug\netcoreapp3.1\CSharpLoop.deps.json
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpLoop\bin\Debug\netcoreapp3.1\CSharpLoop.runtimeconfig.json
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpLoop\bin\Debug\netcoreapp3.1\CSharpLoop.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpLoop\bin\Debug\netcoreapp3.1\CSharpLoop.dll
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpLoop\bin\Debug\netcoreapp3.1\CSharpLoop.pdb
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpLoop\obj\Debug\netcoreapp3.1\CSharpLoop.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpLoop\obj\Debug\netcoreapp3.1\CSharpLoop.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpLoop\obj\Debug\netcoreapp3.1\CSharpLoop.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpLoop\obj\Debug\netcoreapp3.1\CSharpLoop.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpLoop\obj\Debug\netcoreapp3.1\CSharpLoop.dll
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpLoop\obj\Debug\netcoreapp3.1\CSharpLoop.pdb
+C:\Users\User\Documents\GitHub\CSharp-Practice\CSharpLoop\obj\Debug\netcoreapp3.1\CSharpLoop.genruntimeconfig.cache
